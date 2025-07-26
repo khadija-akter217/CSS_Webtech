@@ -1,4 +1,3 @@
-# Lab-Task2
 
 <!DOCTYPE html>
 <html lang="en">
